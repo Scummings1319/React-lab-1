@@ -1,0 +1,29 @@
+.adHeader {
+  font-family: "Caveat", cursive;
+}
+.AdDesigner {
+  font-family: sans-serif;
+  margin: 15px;
+}
+
+.ad {
+  border: 2px solid black;
+  width: 150px;
+  box-shadow: 2px 1px 5px black;
+  margin: auto;
+  margin-left: 0px;
+  text-align: center;
+  justify-content: center;
+}
+
+.darkTheme {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+.fontButtons {
+  display: flex;
+}
+p {
+  font-weight: bold;
+}

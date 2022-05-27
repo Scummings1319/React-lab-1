@@ -1,0 +1,18 @@
+.Votes {
+  width: 150px;
+  font-family: caveat;
+  margin: 15px;
+}
+
+.Votes p {
+  text-align: left;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.hidden {
+  display: none;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
